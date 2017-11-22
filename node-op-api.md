@@ -9,7 +9,7 @@ AxisSmart Cloud的IOT解决方案在全球多地部署了节点，每个IOT节�
 
 ## 2 日志查询[/log/]  
 
-### 2.1 查询某个设备的日志[/log/device/:logtypeId/:deviceId][TODO]  
+### 2.1 查询某个设备的日志[/log/device/:logtypeId/:deviceId][OK]  
 
 
 ## 3 配置信息[/config/]  
