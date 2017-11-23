@@ -14,8 +14,9 @@ AxisSmart Cloud的IOT解决方案在全球多地部署了节点，每个IOT节�
 
 ## 3 配置信息[/config/]  
   
-### 3.1 获取OTA配置信息[/config/ota/list][TODO]  
+### 3.1 获取OTA配置信息[/config/ota/list/:brandId][OK]    
+brandId是运营的客户代码。  
 
-### 3.2 添加OTA配置信息[/config/ota/new][TODO]  
+### 3.2 添加OTA配置信息[/config/ota/new][TODO]  
 
 
